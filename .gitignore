@@ -3,6 +3,7 @@ priceenv/
 
 # Large data files
 data/
+*.csv
 
 # Model files
 models/
