@@ -8,6 +8,9 @@ data/
 # Model files
 models/
 
+#Screenshots
+Screenshots/
+
 # Python cache
 __pycache__/
 *.pyc
